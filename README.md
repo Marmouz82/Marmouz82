@@ -1,7 +1,7 @@
-### Hi there 👋
+# Welcome to my Github 👋
 
-<!--
-**Marmouz82/Marmouz82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a web development learner
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
