@@ -15,14 +15,14 @@ a group project using the following technologies: Html5 / Css3 / Sass / React / 
 Team project. **Teamwork** is what attracts me the most in web development.
 
 
-💬 Dev languages:
+### 💬 Dev languages:
 
 <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoHtml.jpeg?raw=true" height="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoSass.png?raw=true" width="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoJS.png?raw=true" width="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/React.png?raw=true" width="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/Python-logo.png?raw=true" width="50px" />
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 
 [<img src="https://github.com/Marmouz82/images/blob/main/linkedin.png?raw=true" height="50px" />](https://www.linkedin.com/in/ga%C3%ABtan-massart/)   <a href="mailto:gtn.massart@gmail.com"><img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/Gmail-logo.png?raw=true" height="50px" /></a>
 
-- ⚡ Fun fact: ...
+
 
