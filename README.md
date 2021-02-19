@@ -7,7 +7,8 @@
 ### 🔭 I’m currently working on:
 a group project using the following technologies: Html5 / Css3 / Sass / React / NodeJS / mongoose / Docker / webpack.
 
---
+
+
 
 ### 🌱 I’m currently learning:
 -JavaScript / reactJS  
