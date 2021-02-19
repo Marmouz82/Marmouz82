@@ -6,7 +6,7 @@
 
 ### 🔭 I’m currently working on:
 
-a group project (little game) using the following technologies: Html5 / Css3 / Sass / React / NodeJS / mongoose / Docker / webpack.
+a team project (little game) using the following technologies: Html5 / Css3 / Sass / React / NodeJS / mongoose / Docker / webpack.
 
 
 
