@@ -16,7 +16,8 @@ Team project. **Teamwork** is what attracts me the most in web development.
 
 
 💬 Dev languages:
-![alt text](https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoHtml.jpeg) 
+
+![alt text](https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoHtml.jpeg = 50x) 
 
 
 - 📫 How to reach me:
