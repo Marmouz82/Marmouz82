@@ -8,13 +8,16 @@
 a group project using the following technologies: Html5 / Css3 / Sass / React / NodeJS / mongoose / Docker / webpack.
 
 ### 🌱 I’m currently learning:
-
 -JavaScript / reactJS  
 -Python
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### 👯 I’m looking to collaborate on:
+Team project. **Teamwork** is what attracts me the most in web development.
+
+
+💬 Dev languages:
+
+
 - 📫 How to reach me:
 
 
