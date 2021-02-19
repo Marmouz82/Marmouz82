@@ -22,7 +22,7 @@ Team project. **Teamwork** is what attracts me the most in web development.
 📫 How to reach me:
 
 
-<img src="https://github.com/Marmouz82/images/blob/main/linkedin.png?raw=true" height="50px" />
+[<img src="https://github.com/Marmouz82/images/blob/main/linkedin.png?raw=true" height="50px" />](https://www.linkedin.com/in/ga%C3%ABtan-massart/)
 
 - ⚡ Fun fact: ...
 
