@@ -21,7 +21,7 @@ a team project (little game) using the following technologies: Html5 / Css3 / Sa
 
 ### 👯 I’m looking to collaborate on:
 
-Team project. **Teamwork** is what attracts me the most in web development.
+Team projects. **Teamwork** is what attracts me the most in web development.
 
 
 
