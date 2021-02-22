@@ -1,4 +1,4 @@
-# Hi I'm Gaëtan! Welcome to my Github 👋
+# Hi I'm Gaëtan, Welcome to my Github 👋
 
 ### I'm a web development learner at BeCode.Org
 
