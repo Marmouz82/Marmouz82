@@ -9,7 +9,6 @@
 - https://marmouz82.github.io/Kyoto-Project/
 - https://www.devrest.me/
 - https://bcbbrollingstones.herokuapp.com
-- https://achouffe666.github.io/museum-project/
 - https://greengrabber-mago.netlify.app/
 
 
