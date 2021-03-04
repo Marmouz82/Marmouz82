@@ -14,17 +14,12 @@
 
 
 
-### 🔭 I’m currently working on:
-
-a team project (little game) using the following technologies: Html5 / Css3 / Sass / React / NodeJS / mongoose / Docker / webpack.
-
-
-
 
 ### 🌱 I’m currently learning:
 
--JavaScript / reactJS  
--Python
+- Sass 
+- Bootstrap
+- JavaScript / reactJS 
 
 
 
