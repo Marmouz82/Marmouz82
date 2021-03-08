@@ -6,10 +6,10 @@
 
 ### Here are some projects 
 
-- https://marmouz82.github.io/Kyoto-Project/
-- https://marmouz82.github.io/site-portfolio/
-- https://www.devrest.me/
-- https://bcbbrollingstones.herokuapp.com
+- https://www.devrest.me/ (WordPress)
+- https://bcbbrollingstones.herokuapp.com (PHP)
+- https://marmouz82.github.io/Kyoto-Project/ (HTML / CSS-Sass)
+- https://marmouz82.github.io/site-portfolio/ (HTML / CSS-Sass)
 
 
 
