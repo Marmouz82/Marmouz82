@@ -18,7 +18,7 @@
 ### 🌱 I’m currently learning:
 
 - Sass 
-- Bootstrap
+- WordPress
 - JavaScript / reactJS 
 
 
