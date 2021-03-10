@@ -19,7 +19,7 @@
 
 - Sass 
 - WordPress
-- JavaScript / reactJS 
+
 
 
 
