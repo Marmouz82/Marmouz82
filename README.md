@@ -34,7 +34,8 @@ Team projects. **Teamwork** is what attracts me the most in web development.
 
 ### 💬 Dev languages:
 
-<img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoHtml.jpeg?raw=true" height="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoSass.png?raw=true" width="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoJS.png?raw=true" width="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/React.png?raw=true" height="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/Python-logo.png?raw=true" width="50px" />
+<img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoHtml.jpeg?raw=true" height="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoSass.png?raw=true" width="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/logoJS.png?raw=true" width="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/React.png?raw=true" height="50px" />   <img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/Python-logo.png?raw=true" width="50px" />  
+<img src="https://github.com/Marmouz82/images/blob/main/Web-dev-logo/WordPress-logo.png?raw=true" width="50px" />
 
 
 
