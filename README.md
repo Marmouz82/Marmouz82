@@ -17,8 +17,9 @@
 
 ### 🌱 I’m currently learning:
 
-- Sass 
-- WordPress
+- Vue JS
+- Nuxt JS
+- Bootstrap-Vue
 
 
 
