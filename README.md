@@ -1,6 +1,6 @@
 # Hi I'm Gaëtan, Welcome to my Github 👋
 
-### I'm a web development learner at BeCode.Org
+### I'm a web development trainee at Mwesto Labs
 
 
 
