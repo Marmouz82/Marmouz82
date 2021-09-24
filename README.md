@@ -1,6 +1,6 @@
 # Hi I'm Gaëtan, Welcome to my Github 👋
 
-### I'm a web development trainee at Technifutur
+### I'm a web development student at Technifutur
 
 
 
