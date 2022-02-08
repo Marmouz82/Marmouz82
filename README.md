@@ -17,10 +17,8 @@
 
 ### 🌱 I’m currently learning:
 
-- Vue JS
-- Nuxt JS
-- Bootstrap-Vue
-
+- ASP.Net MVC Core
+- Angular
 
 
 
