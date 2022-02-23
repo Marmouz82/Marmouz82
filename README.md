@@ -5,7 +5,6 @@
 ### Here are some projects
 
 - https://pizzamamamarmouz82.azurewebsites.net/ (C# / HTML / CSS)
-- https://www.devrest.me/ (WordPress)
 - https://bcbbrollingstones.herokuapp.com (PHP-MySql)
 - https://marmouz82.github.io/Kyoto-Project/ (HTML / CSS-Sass)
 - https://marmouz82.github.io/Meedium-Project/ (HTML / CSS-Grid)
