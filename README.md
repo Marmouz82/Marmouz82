@@ -21,15 +21,10 @@ Team projects. **Teamwork** is what attracts me the most in web development.
 
 ### 💬 Dev languages:
 
-<img src="./images/html-css-js.png" height="50px" /><img src="./images/sass.png" height="50px" />   
-<img src="./images/bootstrap.png" height="50px" />   
-<img src="./images/CSharp.png" height="50px" />   
-<img src="./images/core.png" height="50px" />   
-<img src="./images/angular.png" height="50px" />   
-<img src="./images/react.png" height="50px" />   
-<img src="./images/sqlServer.png" height="50px" />   
-<img src="./images/github.png" height="50px" />   
-<img src="./images/npm.png" height="50px" />
+<img src="./images/html-css-js.png" height="50px" /><img src="./images/sass.png" height="50px" /><img src="./images/bootstrap.png" height="65px" />  
+<img src="./images/CSharp.png" height="50px" /><img src="./images/core.png" height="50px" /><img src="./images/sqlServer.png" height="50px" />  
+<img src="./images/angular.png" height="50px" /><img src="./images/react.png" height="50px" /><img src="./images/npm.png" height="50px" />  
+<img src="./images/github.png" height="50px" />
 
 ### 📫 How to reach me:
 
